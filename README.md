@@ -1,2 +1,10 @@
-# demo-imrul-repo
-This is for my first repository
+# My Github project
+
+
+##Introduction
+
+
+##Purpose
+
+
+##How to contribute
