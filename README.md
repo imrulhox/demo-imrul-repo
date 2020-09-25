@@ -13,3 +13,6 @@ Adding some simple text for the comparison purpose of the git hub diff tool.
 Adding some more text for the comparison purpose of the git hub diff tool. 
 
 ##How to contribute
+
+adding some text to practice git pull with rebase from git repository to local repo.
+
